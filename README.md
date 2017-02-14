@@ -1,2 +1,2 @@
 # hello-world
-Optional Description
+Catchphrase!
